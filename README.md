@@ -1,4 +1,4 @@
 # tetris
 A simple tetris clone in html5
 
-Head over to http://advaypal.github.io/TETRIS/ to play.
+Head over to https://eragamer.github.io/TETRIS/ to play.
