@@ -7,7 +7,7 @@ function Game() {
     this.rows = 20;
     this.columns = 10;
 	this.arr = [];
-	this.time = 500;
+	this.time = 5000;
 	this.timeInterval = this.time;
 	this.currentTime= 0;
 	this.prevTime = 0;
